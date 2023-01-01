@@ -8,7 +8,7 @@ package com.lpa.exercise;
     Insertion Sort
     Merge Sort
     Quick Sort
-    isSort(check is array sorted)
+    isSorted(check is array sorted)
     Linear Search
     Binary Search
      */
